@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="HOT_WARM"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1548751403753"
+    token="7351000345277956955"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1548750543447"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750607632"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750607632\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750615992"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750615992\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750633309"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750633309\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750691253"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750691253\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750732283"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750732283\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750769666"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750769666\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750796824"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750796824\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548750822932"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\builds\debug\1548750822932\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1548751403753"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

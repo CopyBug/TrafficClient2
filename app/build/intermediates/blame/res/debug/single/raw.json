@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\car3.3gp",
+        "source": "C:\\Project\\AndroidApp\\TrafficClient\\app\\src\\main\\res\\raw\\car3.3gp"
+    },
+    {
+        "merged": "C:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\car2.3gp",
+        "source": "C:\\Project\\AndroidApp\\TrafficClient\\app\\src\\main\\res\\raw\\car2.3gp"
+    },
+    {
+        "merged": "C:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bwm.3gp",
+        "source": "C:\\Project\\AndroidApp\\TrafficClient\\app\\src\\main\\res\\raw\\bwm.3gp"
+    },
+    {
+        "merged": "C:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\car1.3gp",
+        "source": "C:\\Project\\AndroidApp\\TrafficClient\\app\\src\\main\\res\\raw\\car1.3gp"
+    },
+    {
+        "merged": "C:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\traffic.3gp",
+        "source": "C:\\Project\\AndroidApp\\TrafficClient\\app\\src\\main\\res\\raw\\traffic.3gp"
+    },
+    {
+        "merged": "C:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\res\\merged\\debug\\raw\\car4.3gp",
+        "source": "C:\\Project\\AndroidApp\\TrafficClient\\app\\src\\main\\res\\raw\\car4.3gp"
+    }
+]

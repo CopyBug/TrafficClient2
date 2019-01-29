@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sion\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_3b00a2916bd91cb307eacd5e6ea4f21aa12d94e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Project\AndroidApp\TrafficClient\app\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b5b6e706cc0d13483f5e2b76712d714ce8b7629">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\pre-dexed\debug\volley_ab4ee529efd4284cf72287deb31cda4b2ca7779c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ba6dd5d9c53dc8911e5c70810e356ca70e54f2f">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f9d15bc9e1330a4f20cc41655f26b5e90d6f835b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Project\AndroidApp\TrafficClient\app\libs\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_fe1185bee58de21e461642e9a142ebced01cddec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\AndroidApp\TrafficClient\app\libs\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_49cf79b557d110e951a899850f6c3477de20cc3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\AndroidApp\TrafficClient\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b5b6e706cc0d13483f5e2b76712d714ce8b7629">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_ab4ee529efd4284cf72287deb31cda4b2ca7779c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5986a5abbde58a4e4f5c18d69156c9fecd826e5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Project\AndroidApp\TrafficClient\MPChartLib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05fbabb110c5f6e466a4befd7c9667f93222df49">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\pre-dexed\debug\classes_c5540e681960ba8519d2179c45e35a18fdaee069.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\AndroidApp\TrafficClient\app\libs\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.12.0_68461b17cbd0bb7f71dd57c65fdb5461de64d733\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\AndroidApp\TrafficClient\app\libs\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_fe1185bee58de21e461642e9a142ebced01cddec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Project\AndroidApp\TrafficClient\app\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Project\AndroidApp\TrafficClient\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.2.0_5178d3d79635926948868cf1002663f395d6c0e2\classes.dex" />
+    </item>
+
+</items>

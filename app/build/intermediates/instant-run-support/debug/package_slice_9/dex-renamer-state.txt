@@ -1,0 +1,4 @@
+#Sat Jan 19 01:22:26 CST 2019
+base.0=C\:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=C\:\\Project\\AndroidApp\\TrafficClient\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
